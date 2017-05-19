@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\SearchWinForms\SearchWinForms\bin\Debug\SearchWinForms.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\SearchWinForms\SearchWinForms\bin\Debug\SearchWinForms.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\SearchWinForms\SearchWinForms\bin\Debug\SearchWinForms.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\SearchWinForms\SearchWinForms\obj\Debug\SearchWinForms.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\SearchWinForms\SearchWinForms\obj\Debug\SearchWinForms.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\SearchWinForms\SearchWinForms\obj\Debug\SearchWinForms.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\SearchWinForms\SearchWinForms\obj\Debug\SearchWinForms.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\SearchWinForms\SearchWinForms\obj\Debug\SearchWinForms.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\SearchWinForms\SearchWinForms\obj\Debug\SearchWinForms.pdb
